@@ -1,8 +1,7 @@
 ## PorfoliDroid - Vaniko's Coding Journey at a Glance
 
 #
-
-![myapp2](https://github.com/vanikonozadze/PortfoliDroid/assets/115501603/f2c68f68-e9b0-4d23-a6ce-4994091223f2)
+![ddddd](https://github.com/vanikonozadze/PortfoliDroid/assets/115501603/061f2dea-1d01-482a-9a82-22aa0ecbf863)
 
 Welcome to PorfoliDroid, an Android app developed by Vaniko,
 designed to showcase Vaniko's coding expertise, Android projects,
@@ -20,8 +19,7 @@ PorfoliDroid gives you a comprehensive overview of Vaniko's coding journey.
 
 ## Screenshots
 
-![myapp](https://github.com/vanikonozadze/PortfoliDroid/assets/115501603/adc63232-d0a6-44fc-85d2-7059cad143f2)
-
+![dd](https://github.com/vanikonozadze/PortfoliDroid/assets/115501603/38a87ee4-26a3-4907-b34f-3df3d0d585d2)
 
 ## Getting Started
 To experience PorfoliDroid on your own device, follow these steps:
