@@ -2,6 +2,8 @@
 
 #
 
+![myapp2](https://github.com/vanikonozadze/PortfoliDroid/assets/115501603/f2c68f68-e9b0-4d23-a6ce-4994091223f2)
+
 Welcome to PorfoliDroid, an Android app developed by Vaniko,
 designed to showcase Vaniko's coding expertise, Android projects,
 and web projects. With a user-friendly interface and powerful features,
@@ -17,6 +19,9 @@ PorfoliDroid gives you a comprehensive overview of Vaniko's coding journey.
 * Object-Oriented Programming (OOP): The app is built using Java, employing OOP principles for efficient and maintainable code.
 
 ## Screenshots
+
+![myapp](https://github.com/vanikonozadze/PortfoliDroid/assets/115501603/adc63232-d0a6-44fc-85d2-7059cad143f2)
+
 
 ## Getting Started
 To experience PorfoliDroid on your own device, follow these steps:
