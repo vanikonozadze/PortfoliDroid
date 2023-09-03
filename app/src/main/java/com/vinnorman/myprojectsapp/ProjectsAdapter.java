@@ -39,7 +39,6 @@ public class ProjectsAdapter extends RecyclerView.Adapter<ProjectsAdapter.Projec
     static class ProjectViewHolder extends RecyclerView.ViewHolder {
 
         private TextView textView;
-
         private TextView descriptionTextView;
         private ImageView imageView;
 
@@ -52,7 +51,7 @@ public class ProjectsAdapter extends RecyclerView.Adapter<ProjectsAdapter.Projec
 
         private void bind(Project project) {
             textView.setText(project.name);
-            descriptionTextView.setText(project.descritpion);
+            descriptionTextView.setText(project.description);
             imageView.setImageResource(project.image);
         }
 
